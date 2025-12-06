@@ -15,12 +15,11 @@ This project investigates how COVID-19 infection and related clinical variables 
 - Test whether these deviations are statistically significant, indicating impairment or resilience in specific domains.
 
 ## 🛠️ Tools & Libraries
-
-- Python:
-  - `pandas` for data handling
-  - `scikit-learn` (e.g., `LinearRegression`, `train_test_split`) for modelling
-  - `scipy.stats` for one-sample t‑tests
-  - `matplotlib` for regression and scatter plots
+- R:
+  - `tidyverse` for data handling and wrangling
+  - `ggplot2` for regression and scatter plots
+  - Base R / `stats` functions for linear modelling and one-sample t‑tests
+  - Additional packages as needed for data import and visualisation
 
 ## 🔍 Methods
 
